@@ -20,7 +20,7 @@
     </form>
     hello world
   welcome  to china
-  今天天气很热，我不打算学习。
-  今天天气很热，我不打算睡觉。
+  今天天气很热，不打算学习。
+  今天天气很热，不打算睡觉。
   </body>
 </html>
