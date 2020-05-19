@@ -20,6 +20,6 @@
     </form>
     hello world
   welcome  to china
-  今天天气很热。
+  今天天气很热,但是我家有空调。
   </body>
 </html>
